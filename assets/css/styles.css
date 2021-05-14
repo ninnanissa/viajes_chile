@@ -6,7 +6,7 @@
   height: 25vh;
   object-fit: cover;
 }
-
+/* smooth scroll básico */
 html{
   scroll-behavior: smooth;
 }
