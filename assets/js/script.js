@@ -1,11 +1,9 @@
+//tooltip
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 });
 
-$(function () {
-    $('[data-toggle="popover"]').popover()
-});
-
+//toggle
 $(".card-title").click(function(){
   $(".card-text").toggle();
 });
